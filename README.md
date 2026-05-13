@@ -39,3 +39,10 @@ Open the App → Login to App → Home Screen will appear → Add Task to it →
 ## Tools Used
 - Figma
 - GitHub
+
+## Outcome
+This project helped in understanding the basics of:
+- User research
+- User flow creation
+- Low-fidelity wireframing
+- Mobile app planning using Figma
